@@ -1,0 +1,1 @@
+export const DUMMY_SCHOOL_ID = 'thisisadummyschoolid12345';
